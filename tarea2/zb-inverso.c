@@ -19,4 +19,4 @@ int main() {
     printf("El inverso de %d es: %d\n", numero, revesDigitosWhile(numero));
 
     return 0;
-}
+}//creo que el 'while' es la mejor opción en este caso
