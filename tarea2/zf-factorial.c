@@ -19,4 +19,4 @@ int main (){
     printf ("El factorial de %d es: %d\n", numero, factorial(numero));
 
 return 0;
-}
+}//creo que el 'while' es la mejor opción en este caso
