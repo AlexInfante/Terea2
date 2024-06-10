@@ -35,4 +35,4 @@ int contPrimos(int n) {
     contPrimos(n);
 
     return 0;
-}
+}//creo que el 'do while' es la mejor opción en este caso por las condiciones para el primo
