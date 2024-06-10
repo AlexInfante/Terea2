@@ -25,4 +25,4 @@ int main() {
     sumaCuadrados(n);
 
     return 0;
-}
+}//creo que el 'do while' es la mejor opción en este caso e incluso el while
