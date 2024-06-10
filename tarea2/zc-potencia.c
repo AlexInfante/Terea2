@@ -18,4 +18,4 @@ int main() {
     printf("%d^%d = %lld", base, exponente, potencia(base, exponente));
 
     return 0;
-}
+}//creo que el 'for' es la mejor opción en este caso, al usar 'i' en una sola línea
