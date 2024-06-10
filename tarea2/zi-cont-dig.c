@@ -17,4 +17,4 @@ int main() {
     printf("El número %d tiene %d dígitos\n", numero, contadorDigitos(numero));
     
     return 0;
-}
+}//creo que el 'while' es la mejor opción en este caso
