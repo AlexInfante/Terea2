@@ -22,4 +22,4 @@ int main (){
     
     printf("El MCD de %d y %d es: %d\n", num1, num2, mcd(num1, num2));
     return 0;
-}
+}//creo que el 'for' es la mejor opción en este caso aplicando el operador ternario a las dos variables
