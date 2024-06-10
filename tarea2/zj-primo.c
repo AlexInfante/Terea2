@@ -24,4 +24,4 @@ int esPrimo(int n) {
 
     esPrimo(n);
     return 0;
-    }
+    }//creo que el 'while' es la mejor opción en este caso
