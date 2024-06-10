@@ -19,4 +19,5 @@ int main(){
     printf("%d",fibonacci(n));
 
     return 0;
-}//creo que el 'while' es la mejor opción en este caso
+}//creo que el 'for' es la mejor opción en este caso por inicializar la variable 'i' en una sola línea
+ 
